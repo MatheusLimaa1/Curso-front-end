@@ -1,0 +1,7 @@
+body { /* tag para mudar o corpo da pagina*/
+    background-color: black;/*tag para mudar cor de fundo da pagina*/
+    color: #F6F6F6; /*tag para mudar cor das letras da pagina*/
+}
+strong{/*tag para mudar a cor do trecho destacado no hmtl com strong*/
+    color: #22D4FD;
+}
